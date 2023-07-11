@@ -4,7 +4,7 @@ Authors/Collaborators: Kyle Earp, Derek Hopkins, Dashon Mitchell, Vianey Rangel,
 
 In conjunction with Faculty Advisors; Dr. Scott Cook and Dr. Chris Mitchell
 
-Backend Neural Networks and Bayesian backend created and maintained by Stefan Radev. 
+Underlying Neural Networks and Bayesian backend created and maintained by Stefan Radev. 
 	Find out more about BayesFlow here: https://github.com/stefanradev93/BayesFlow
 
 Welcome to the GitHub Repository for Tarleton State's undergraduate research on using Bayesian methods to estimate parameters
